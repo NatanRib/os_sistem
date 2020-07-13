@@ -1,6 +1,6 @@
 # os_sistema
 
-A new Flutter project.
+A simple mobile sistem of services orders.
 
 ## Getting Started
 
